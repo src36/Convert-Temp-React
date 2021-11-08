@@ -29,7 +29,7 @@ input:focus{
 }
 span{
   margin: 10px;
-  padding: 10px;
+  padding: 12px;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
